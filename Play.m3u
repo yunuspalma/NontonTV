@@ -795,28 +795,13 @@ https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rTrbLUx.png" group-title="Olah Raga",PTV Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLzOgga.jpeg" group-title="Olah Raga",PTV Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzOsBhk.jpeg" group-title="Olah Raga",Fox
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pg3U0XY.png" group-title="Olah Raga",TVP Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745104.m3u8
-
-
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WjJ6X42.jpeg" group-title="Olah Raga",beIN Sports France 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -860,7 +845,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=125
-https://ayo.maling.pl/Vision/index.mpd?id=125
+#https://ayo.maling.pl/Vision/index.mpd?id=125
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IMRmPg.png" group-title="Olah Raga",beIN Sports 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -869,7 +854,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=125
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=126
-https://ayo.maling.pl/Vision/index.mpd?id=126
+#https://ayo.maling.pl/Vision/index.mpd?id=126
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5tmckC.jpeg" group-title="Olah Raga",SPOTV 
