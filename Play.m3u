@@ -1255,19 +1255,17 @@ https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/qOW94TF.png" group-title="Anak"
 
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/151/571151-SNAPSHOT-m.jpg" group-title="Anak",Mentari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/151/571151-SNAPSHOT-m.jpg" group-title="Anak",Mentari
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
 
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/151/571151-SNAPSHOT-m.jpg" group-title="Anak",Mentari
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 
@@ -1279,15 +1277,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 #https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2sdk0nou/landscape_carousel_hdpi.webp" group-title="Anak",Nickelodeon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=64
-https://ayo.maling.pl/Vision/index.mpd?id=64
+https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
 
 
 #EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_h0tqx9o4/landscape_carousel_hdpi.webp" group-title="Anak",Horee
@@ -1315,25 +1309,19 @@ https://ayo.maling.pl/Vision/index.mpd?id=67
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTINF:-1 tvg-logo="https://sm.ign.com/ign_in/screenshot/default/animax-india_ugx9.jpg" group-title="Anak",ANimax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=65
-https://ayo.maling.pl/Vision/index.mpd?id=65
-
-
-
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfEPcIv4WRd2EbT0Oo_Xsahm8lO31pRy76kZYnJ_uiXNx3b6vC_irvNwv9VIBpKIoo6jAly6V18N_FclIjULmN7E4aAnfiqjBowr9D3j5TXjrZJjwCsCm1w-4zHjcTxSviYoOmo0Nzw-l2AH8W1_NWO0uyJQtyJPWhRvsm415qFT6OwCciFo1FHxbUyFP/s320/ANPL.jpg" group-title="Anak",ANIPLUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5V0mhUK.jpeg" group-title="Anak",ANIPLUS
 #https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 
@@ -1351,29 +1339,25 @@ https://ayo.maling.pl/Vision/index.mpd?id=60
 
 
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/932/76932-SNAPSHOT-m.jpg" group-title="Anak",Kids TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=56
-https://ayo.maling.pl/Vision/index.mpd?id=56
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil9xlJ3b5GowAjWsPztYPUdZzClIxD1FpyynFOFVZBmikVAJKr4IqaK5mFM2f34ObAL5Rkq8eoUSYaqUylE6rH-ruiasZKFADUOL4DdE1qPNrZiV9GfK4Ku-mWZpxi_Kw-jBrVTiYY9MT0EeoKWqfwRg6Toqv09wzNdAxJ2ZuKfg9lZimRlYd6sMmcVA9S/s320/Cartoon.png" group-title="Anak",Cartoon Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/jYvTIlh.png" group-title="Anak",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/709/526709-SNAPSHOT-m.jpg" group-title="Anak",CBeebies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=58
-https://ayo.maling.pl/Vision/index.mpd?id=58
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/463/74463-SNAPSHOT-m.jpg" group-title="Anak",ZOOMOO
@@ -1386,15 +1370,11 @@ https://ayo.maling.pl/Vision/index.mpd?id=58
 https://ayo.maling.pl/Vision/index.mpd?id=63
 
 
-
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/701/526701-SNAPSHOT-m.jpg" group-title="Anak",Moonbug
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=57
-https://ayo.maling.pl/Vision/index.mpd?id=57
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/701/526701-SNAPSHOT-m.jpg" group-title="Anak",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 
 
 //========================================================================
