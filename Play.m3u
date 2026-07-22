@@ -843,24 +843,20 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtsQYsLMhqM3WZTE4XSk9ZEJvebGYxhDExX_sVgvQJ8BbFIEGWfI4n_nQ6gJHrruj63TPxxkb6nL0V96h-rTmRJ2W9q8tI1C5VlO7WKsWHFrf9X1xzX8uGSzPl1bh2Y1V51_k8bjmMsK6TxqbJSKUJPQsarjwOAW2Nwq3gTtZ8mGDz4dHkSIZytg8hRbEu/s320/B1.png" group-title="Olah Raga",beIN Sports 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=122
-https://ayo.maling.pl/Vision/index.mpd?id=122
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAsepEe.png" group-title="Olah Raga",beIN Sports 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO1BVRn48Ojv8ENA8AGBQDhAKLzGqpflX0t_3jy9_j7bUC9XPvdbQaoQmcIe4BAEB1wOChB7h2tvqk_q8rbU7FB2OmTMg2QFqug0abXQaKylcCBYnX3XaUAbGZ6ynPhMJRJTj81zbiwjbXW4xLWpu0xC7T8JS4VnDwUR2AuDSdKqqAFxnumsI_c0mJbzL/s320/B2.png" group-title="Olah Raga",beIN Sports 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=123
-https://ayo.maling.pl/Vision/index.mpd?id=123
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylIC4Nd.png" group-title="Olah Raga",beIN Sports 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwUZkw5pgSLBhBHzZNoW8rB699FLmdbumi61wBPtoP4LgJI5wdScFs8bBi6DgRpY3Mafr59SjKG9h3IqI_bp3HECa9luKkM_6Qsg8_m5HQmBUmT7q8mmGyqZ-g46dlpXlRGne2sbY59xHXO20Nix21oKeSqN6XOPPl_o9Yr-6Y223vX0V3ZzSmjtNDQyyg/s320/B3.png" group-title="Olah Raga",beIN Sports 3
@@ -1442,13 +1438,11 @@ https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 #http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ8hKEyv3OoHYHScdpR0LVYbzpIaV89BQINbCKZc5Zit_cwnLiuJXWXanKYhIq2zFBCgaDUHcRL1hJR4VlG3NkUTVVg2Rz73PLlK3bM7l1TFqXTUIDKbLReKYvu8aLrkCQs9soixaXWi_isMxMBBWcLvJ0L0NwDGBiXPtgsynLpkDMfcakTA_FQdgGkss-/s320/crime.jpg" group-title="Hiburan",Crime Investigation
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=95
-https://ayo.maling.pl/Vision/index.mpd?id=95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
