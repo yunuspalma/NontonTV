@@ -735,6 +735,15 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/057/50057-SNAPSHOT-m.png" group-title="Max Stream",Rock Action
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/965/570965-SNAPSHOT-m.jpg" group-title="Max Stream",SCTV
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/532/525532-SNAPSHOT-m.jpg" group-title="Max Stream",TVOne
+https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
+
 
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> News
