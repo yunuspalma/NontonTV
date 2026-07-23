@@ -208,11 +208,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mp
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Me7t3mk.jpeg" group-title="Lokal",KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82JaPBa.jpeg" group-title="Lokal",KOMPAS TV 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nWIwTzy.jpeg" group-title="Lokal",METRO TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nCkwRNW.jpeg" group-title="Lokal",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
@@ -236,7 +236,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UwhEicL.jpeg" group-title="Lokal",RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jE9Z1s.jpeg" group-title="Lokal",RTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
@@ -320,7 +320,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hd7Z7nt.png" group-title="Film",CITRA ENTERTAINMENT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/661/587661-SNAPSHOT-m.jpg" group-title="Film",Drama Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp9jkpb.jpeg" group-title="Film",Drama Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
