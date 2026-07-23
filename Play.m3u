@@ -151,6 +151,31 @@ https://bit.ly/trams7m3u
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMc1bdZ.jpeg" group-title="Lokal",Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78rOZ6c.jpeg" group-title="Lokal",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q985eGj.jpeg" group-title="Lokal",TvKu
+https://tvku.tv/hlsstream/hls/live.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmyplS4.jpeg" group-title="Lokal",Bali TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMEEp9x.jpeg" group-title="Lokal",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQPYslx.jpeg" group-title="Lokal",Garuda TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LkulpVg.jpeg" group-title="Lokal",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
@@ -1078,8 +1103,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
 #https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MNc5Tfu.jpeg" group-title="Malaysia",FITRAH
-https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDqJh8h.jpeg" group-title="Malaysia",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSqmQQE.jpeg" group-title="Malaysia",AURA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
